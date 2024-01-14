@@ -21,9 +21,17 @@ Gemini Vision Pro is an advanced image analysis and description tool designed to
 
 ## Requirements:
 
-- Python 3.10
-- Gemini Vision Pro API key (Get it [here](ai.google.dev))
-- Telegram Bot API key (Create a bot [here](telegram.in\BotFather))
+## Requirements:
+
+- **Python Version:**
+  - Python 3.10
+
+- **Gemini Vision Pro API Key:**
+  - Obtain your Gemini Vision Pro API key [here](https://ai.google.dev).
+
+- **Telegram Bot API Key:**
+  - Create a Telegram bot using [BotFather](https://telegram.in/BotFather) and obtain the Bot token key.
+
 
 ## Installation:
 
@@ -56,6 +64,4 @@ Gemini Vision Pro is an advanced image analysis and description tool designed to
 
 Feel free to contribute, report issues, or suggest improvements. Happy coding!
 
----
 
-Make sure to replace placeholders like `your-username`, `gemini-vision-pro-api-link`, and `telegram-bot-api-link` with the appropriate values and links in your actual repository.
