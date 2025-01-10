@@ -19,7 +19,6 @@ Gemini Vision Pro is an advanced image analysis and description tool designed to
   - Flexible configuration options to adapt the system to various use cases.
   - Easily customize the behavior of the Telegram bot and fine-tune image description settings.
 
-## Requirements:
 
 ## Requirements:
 
